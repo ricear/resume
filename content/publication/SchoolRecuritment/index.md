@@ -18,9 +18,9 @@ publication_types: ["5"]
 publication: Computer Cookbook - School Recuritment
 publication_short:
 
-abstract: '
+abstract: "
 In the process of preparing for the internship, the author learned a lot from the open source community, such as knowing the blogs of many bigwigs ( [Halfrost's Field | Frostland](https://halfrost.com/) ), and building my own knowledge base ( [Ricear's Notebook](https://notebook.ricear.com/) ). Therefore, I want to deposit this knowledge and give back to the community. On the one hand, you can not only deepen your understanding of these knowledge, but on the other hand, you can also communicate with other small partners to learn and make progress together.
-'
+"
 
 # Summary. An optional shortened abstract.
 summary: This is Cookbook about solutions to LeetCode by Go, 100% test coverage, runtime beats 100%. Now it has obtained 520 solutions.
