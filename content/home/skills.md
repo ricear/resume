@@ -136,11 +136,11 @@ subtitle = ""
   name = "Gitlab"
   description = "80%"       
 
-<!-- [[feature]]
-  icon = "phabricator"
-  icon_pack = "custom"
-  name = "Phabricator"
-  description = "80%"  -->
+# [[feature]]
+#   icon = "phabricator"
+#   icon_pack = "custom"
+#   name = "Phabricator"
+#   description = "80%" 
         
 # Uncomment to use emoji icons.
 # [[feature]]
