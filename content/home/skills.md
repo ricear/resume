@@ -87,41 +87,41 @@ subtitle = ""
   name = "Vue"
   description = "60%" 
   
-<!-- [[feature]]
-  icon = "weex"
-  icon_pack = "custom"
-  name = "Weex"
-  description = "60%" -->
-  
-<!-- [[feature]]
-  icon = "electron"
-  icon_pack = "custom"
-  name = "Electron"
-  description = "60%"  -->
-  
-<!-- [[feature]]
-  icon = "apple"
-  icon_pack = "custom"
-  name = "Apple"
-  description = "90%" -->
-  
-<!-- [[feature]]
-  icon = "AI"
-  icon_pack = "custom"
-  name = "Adobe Illustrator"
-  description = "90%" -->
-
-<!-- [[feature]]
-  icon = "PS"
-  icon_pack = "custom"
-  name = "Adobe Photoshop"
-  description = "90%" -->
-  
-<!-- [[feature]]
-  icon = "sketch"
-  icon_pack = "custom"
-  name = "Sketch"
-  description = "90%" -->
+# [[feature]]
+#   icon = "weex"
+#   icon_pack = "custom"
+#   name = "Weex"
+#   description = "60%"
+#   
+# [[feature]]
+#   icon = "electron"
+#   icon_pack = "custom"
+#   name = "Electron"
+#   description = "60%" 
+#   
+# [[feature]]
+#   icon = "apple"
+#   icon_pack = "custom"
+#   name = "Apple"
+#   description = "90%"
+#   
+# [[feature]]
+#   icon = "AI"
+#   icon_pack = "custom"
+#   name = "Adobe Illustrator"
+#   description = "90%"
+# 
+# [[feature]]
+#   icon = "PS"
+#   icon_pack = "custom"
+#   name = "Adobe Photoshop"
+#   description = "90%"
+#   
+# [[feature]]
+#   icon = "sketch"
+#   icon_pack = "custom"
+#   name = "Sketch"
+#   description = "90%"
 
 [[feature]]
   icon = "git"
