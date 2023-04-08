@@ -33,11 +33,11 @@ subtitle = ""
   name = "Redis"
   description = "70%" 
 
-<!-- [[feature]]
-  icon = "PostgreSQL"
-  icon_pack = "custom"
-  name = "PostgreSQL"
-  description = "70%" -->
+# [[feature]]
+#   icon = "PostgreSQL"
+#   icon_pack = "custom"
+#   name = "PostgreSQL"
+#   description = "70%"
   
 [[feature]]
   icon = "Nginx"
@@ -45,11 +45,11 @@ subtitle = ""
   name = "Nginx"
   description = "70%"
   
-<!-- [[feature]]
-  icon = "RabbitMQ"
-  icon_pack = "custom"
-  name = "RabbitMQ"
-  description = "70%" -->
+# [[feature]]
+#   icon = "RabbitMQ"
+#   icon_pack = "custom"
+#   name = "RabbitMQ"
+#   description = "70%"
   
 [[feature]]
   icon = "SpringBoot"
