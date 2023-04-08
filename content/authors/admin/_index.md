@@ -1,57 +1,55 @@
 ---
-title: Dezhi Yu
-role: Staff Engineer
-avatar_filename: avatar.jpg
-organizations:
-  - name: Binance.com
-    url: "https://www.binance.com/"
-superuser: true
-authors:
-  - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Peng Wei
+role: Junior Back End Engineer
+avatar_filename: avatar.jpeg
+bio: Although the road is far away, the line will come soon. God rewards
+  hard   work, accumulates wealth.
 interests:
-  - Cloud Native
-  - Artificial Intelligence
-  - Mobile Development
-  - Computational Linguistics
+  - Back-End Development
+  - Distributed System
+  - Big Data
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - link: https://www.linkedin.com/in/halffrost/
+    link: /#contact
+  - icon: phoenix-squadron
     icon_pack: fab
-    icon: linkedin-in
+    link: https://ricear.com
+  - display:
+      header: false
+    link: https://notebook.ricear.com
+    icon_pack: fas
+    icon: book
   - icon: github
     icon_pack: fab
-    link: https://github.com/halfrost
-  - icon: twitter
+    link: https://github.com/ricear
+  - icon: unsplash
     icon_pack: fab
-    link: https://twitter.com/halffrost
-  - icon: weixin
-    icon_pack: fab
-    link: https://img.halfrost.com/wechat-qr-code.png
-  - link: https://halfrost.com
-    icon_pack: fab
-    icon: phoenix-squadron
+    link: https://unsplash.com/@ricear
+  - icon: book-open
+    icon_pack: fas
+    link: https://books.ricear.com
+organizations:
+  - name: Beihang University
+    url: https://buaa.edu.cn
 education:
   courses:
-    - course: MS in Software Engineering, GPA 3.95/4.0
-      institution: Carnegie Mellon University, CA, United States of America
-      year: 
-      schoolbadge: '/CMU.svg'
-    - course: B.Eng in Computer Science, GPA 3.8/4.0
-      institution: Huzhou University, Zhejiang, China
-      year: 
-      schoolbadge: '/HUZU.svg'
+    - course: M.Eng in Software Engineering
+      institution: Behang University, Beijing, China
+      year: 2023
+      schoolbadge: '/buaa_logo.png'
+    - course: B.Eng in Information Management and Information System
+      institution: Liaoning Technical University, Liaoning, China
+      year: 2018
+      schoolbadge: '/lntu_logo.png'
 user_groups:
   - Researchers
   - Visitors
 highlight_name: false
-email: "i@halfrost.com"
+email: "i@ricear.com"
 ---
-Dezhi Yu is a professional developer who focuses on Cloud Native now. He has strong knowledge of Go, Objective-C and network programming. With these skills, he created quite a few widely used applications and frameworks in the company. He also joins [](https://www.acm.org/)some organizations, becoming professional Membership of [ACM](https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf) / [IEEE](https://img.halfrost.com/certificate/IEEE_MEM500_97002879.pdf) / [IEEE-CS](https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879.pdf) / CCF. He writes his personal thoughts on programming and tech in his personal [blog](https://halfrost.com) that accumulates 7.55 million PV  and 4.26 million UV. He is active on Github, which Github world stars rank [149](https://gitstar-ranking.com/halfrost) as well as world followers rank [95](https://wangchujiang.com/github-rank/). He loves algorithms and advanced mathematics, winning medals in  ACM-ICPC  and Advanced Mathematics Competition.
+Peng Wei is a professional developer who focuses on Back-End Development now. He likes to accumulate knowledge and writes his personal thoughts on programming and tech in his personal [blog](https://notebook.ricear.com) beacuse he thinks *Although the road is far away, the line will come soon. God rewards hard work, accumulates wealth.*  He enjoys deep thinking and likes to find out the true theory of every single knowledge. He loves algorithms and advanced mathematics, wining medals in Computer Design Competition and ICM.
 
-Dezhi Yu also is a globetrotter, traveled around the world before the age of 28, and his footprints will soon cover seven continents (coming soon). He is extreme sports enthusiasts, like skydiving, skiing, diving, hot air ballooning, helicopters. He is always willing to try new things, and keeping to learn from them.
+Peng Wei also is a photographer and loves to record every single beauty of life with camera, which has received nearly 10k downloads and more than 0.38 million views with 24 photos on [Unsplash](https://unsplash.com/@Ricear). He is always willing to try new things, and keeping to learn from them.
 
-Now, he works for Binance.com as a Staff Engineer.
+Now, he is a M.Eng student of Software Engineering in Behang University.

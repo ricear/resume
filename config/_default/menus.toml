@@ -33,10 +33,10 @@
   url = "#publications"
   weight = 60
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 70
+# [[main]]
+#   name = "Talks"
+#   url = "#talks"
+#   weight = 70
 
 [[main]]
   name = "Skills"
@@ -48,10 +48,10 @@
   url = "#contact"
   weight = 100
 
-[[main_right]]
-  name = "<i class='ai ai-coursera' style='font-size:1.5rem;line-height:1.25'></i>"
-  url = "https://www.coursera.org/user/94d1260a778d0a3918ef95b4c1063486"
-  weight = 10
+# [[main_right]]
+#   name = "<i class='ai ai-coursera' style='font-size:1.5rem;line-height:1.25'></i>"
+#   url = "https://www.coursera.org/user/94d1260a778d0a3918ef95b4c1063486"
+#   weight = 10
 
 #[[main_right]]
 #  name = "<i class='ai ai-acm' style='font-size:1.5rem;line-height:1.25'></i>"
@@ -65,7 +65,7 @@
 
 [[main_right]]
   name = "<i class='ai ai-cv' style='font-size:1.5rem;line-height:1.25'></i>"
-  url = "cv.pdf"
+  url = "Peng Wei.pdf"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
