@@ -269,7 +269,7 @@ plugins_js  = []
 ## Marketing
 ############################
 [marketing]
-  google_analytics = 'G-N0EMXHS1L1'
+  google_analytics = 'G-LP411LWJ7H'
   baidu_tongji = 'd81fc716e63d1a4628874e188440bc9f'
 
 ############################
