@@ -22,22 +22,22 @@ subtitle = ""
   description = "80%" 
   
 [[feature]]
-  icon = "Docker"
-  icon_pack = "custom"
-  name = "Docker"
-  description = "60%"
-  
-[[feature]]
   icon = "MySQL"
   icon_pack = "custom"
   name = "MySQL"
   description = "80%"
 
 [[feature]]
+  icon = "Redis"
+  icon_pack = "custom"
+  name = "Redis"
+  description = "70%" 
+
+<!-- [[feature]]
   icon = "PostgreSQL"
   icon_pack = "custom"
   name = "PostgreSQL"
-  description = "70%"
+  description = "70%" -->
   
 [[feature]]
   icon = "Nginx"
@@ -45,23 +45,35 @@ subtitle = ""
   name = "Nginx"
   description = "70%"
   
-[[feature]]
+<!-- [[feature]]
   icon = "RabbitMQ"
   icon_pack = "custom"
   name = "RabbitMQ"
-  description = "70%"
-  
-[[feature]]
-  icon = "Redis"
-  icon_pack = "custom"
-  name = "Redis"
-  description = "70%" 
+  description = "70%" -->
   
 [[feature]]
   icon = "SpringBoot"
   icon_pack = "custom"
   name = "SpringBoot"
   description = "60%" 
+
+[[feature]]
+  icon = "Docker"
+  icon_pack = "custom"
+  name = "Docker"
+  description = "60%"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "custom"
+  name = "Git"
+  description = "60%"  
+
+[[feature]]
+  icon = "gitlab"
+  icon_pack = "custom"
+  name = "Gitlab"
+  description = "60%"       
 
 [[feature]]
   icon = "JS"
@@ -122,19 +134,6 @@ subtitle = ""
 #   icon_pack = "custom"
 #   name = "Sketch"
 #   description = "90%"
-
-[[feature]]
-  icon = "git"
-  icon_pack = "custom"
-  name = "Git"
-  description = "80%"  
-  
-  
-[[feature]]
-  icon = "gitlab"
-  icon_pack = "custom"
-  name = "Gitlab"
-  description = "80%"       
 
 # [[feature]]
 #   icon = "phabricator"
