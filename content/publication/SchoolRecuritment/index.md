@@ -31,15 +31,15 @@ featured: true
 
 links:
 - name: Chinese Version
-  url: https://books.halfrost.com/leetcode
-url_pdf: 'cookbookV1.5.20.pdf'
-url_code: 'https://github.com/ricear/school-recruitment'
-url_dataset: 'https://github.com/ricear/school-recruitment'
-url_poster: 'https://books.ricear.com/school-recruitment/img/book-cover.png'
-url_project: 'https://github.com/ricear/school-recruitment'
-url_slides: 'https://github.com/ricear/school-recruitment'
-url_source: 'https://github.com/ricear/school-recruitment'
-url_video: 'https://github.com/ricear/school-recruitment'
+  url: https://books.ricear.com/school-recruitment
+  url_pdf: 'https://github.com/ricear/school-recruitment'
+  url_code: 'https://github.com/ricear/school-recruitment'
+  url_dataset: 'https://github.com/ricear/school-recruitment'
+  url_poster: 'https://books.ricear.com/school-recruitment/img/book-cover.png'
+  url_project: 'https://github.com/ricear/school-recruitment'
+  url_slides: 'https://github.com/ricear/school-recruitment'
+  url_source: 'https://github.com/ricear/school-recruitment'
+  url_video: 'https://github.com/ricear/school-recruitment'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
