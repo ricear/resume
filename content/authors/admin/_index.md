@@ -35,7 +35,7 @@ organizations:
 education:
   courses:
     - course: M.Eng in Software Engineering
-      institution: Behang University, Beijing, China
+      institution: Beihang University, Beijing, China
       year: 2023
       schoolbadge: '/buaa_logo.png'
     - course: B.Eng in Information Management and Information System
@@ -52,4 +52,4 @@ Peng Wei is a professional developer who focuses on Back-End Development now. He
 
 Peng Wei also is a photographer and loves to record every single beauty of life with camera, which has received nearly 10k downloads and more than 0.38 million views with 24 photos on [Unsplash](https://unsplash.com/@Ricear). He is always willing to try new things, and keeping to learn from them.
 
-Now, he is a M.Eng student of Software Engineering in Behang University.
+Now, he is a M.Eng student of Software Engineering in Beihang University.
