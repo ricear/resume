@@ -19,6 +19,30 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Beihang University"
+  organization_url = "https://www.buaa.edu.cn"
+  title = "2021 Outstanding Graduate Student of BUAA"
+  url = ""
+  certificate_url = "https://notebook.ricear.com/media/202306/2023-06-24_215608_3008310.9593850610858138.jpg"
+  date_start = "2022-01-01"
+  date_end = ""
+  description = """
+<img data-src="https://notebook.ricear.com/media/202306/2023-06-24_220537_5545410.5637030330236373.jpg" alt="" style="height: 60px;" class="lazyload">
+"""
+
+[[item]]
+  organization = "Beihang University"
+  organization_url = "https://www.buaa.edu.cn"
+  title = "Outstanding Graduates of BUAA in 2023"
+  url = ""
+  certificate_url = "https://notebook.ricear.com/media/202306/2023-06-24_215550_5806110.02630083976305242.jpg"
+  date_start = "2023-06-01"
+  date_end = ""
+  description = """
+<img data-src="https://notebook.ricear.com/media/202306/2023-06-24_220537_5545410.5637030330236373.jpg" alt="" style="height: 60px;" class="lazyload">
+"""
+
+[[item]]
   organization = "China University Student Computer Design Competition"
   organization_url = "http://jsjds.ruc.edu.cn"
   title = "The 10th China University Student Computer Design Competition - Second Prize"
