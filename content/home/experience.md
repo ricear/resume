@@ -31,6 +31,20 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Junior Back End Engineer Intern"
+  company = "Didi"
+  company_url = "http://didiglobal.com"
+  location = "Beijing, China"
+  date_start = "2021-10-08"
+  date_end = "2022-04-11"
+  description = """
+<img data-src="https://notebook.ricear.com/media/202204/2022-04-13_1546480.1872999721663492.png" alt="didi" style="padding-bottom: 30px;" class="lazyload">
+
+- Participate in DIY self-service testing platform development. It mainly solves the problems of stateless management of the execution process of the existing platform and the construction of general link-level scenarios around the order flow. Support users to create customized scenario use cases through visual link assembly; realize collaborative sharing across teams through collaborative sharing mode. Mainly responsible for the development of use case management and use case editing modules. Use Python's Django framework as the core of the project architecture; implement data buffering, interface parameter consumption and session sharing based on Redis. Since its launch one month ago, it has accumulated 1,625 cases, and has run a total of 185,146 cases, covering 211 scenarios and involving 441 users in 18 business lines of the group.
+
+"""
+
+[[experience]]
+  title = "Junior Back End Engineer Intern"
   company = "Transwarp"
   company_url = "https://www.transwarp.cn"
   location = "Beijing, China"
