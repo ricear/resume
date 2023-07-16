@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://www.ascf.com.cn"
   location = "Beijing, China"
   date_start = "2023-07-05"
-  date_end = "Present"
+  date_end = ""
   description = """
 <img data-src="https://notebook.ricear.com/media/202307/ascf_logo_1689478939.jpg" alt="didi" style="padding-bottom: 30px;" class="lazyload">
 
