@@ -30,7 +30,7 @@ social:
     icon_pack: fas
     link: https://books.ricear.com
 organizations:
-  - name: Aerospace Changfeng Co.,LTD
+  - name: Aerospace Changfeng Co.,LTD.
     url: http://www.ascf.com.cn
 education:
   courses:
