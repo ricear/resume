@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Junior Back End Engineer"
-  company = "Aerospace Changfeng"
+  company = "Aerospace Changfeng Co.,LTD"
   company_url = "http://www.ascf.com.cn"
   location = "Beijing, China"
   date_start = "2023-07-05"
