@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2023-07-05"
   date_end = ""
   description = """
-<img data-src="https://notebook.ricear.com/media/202307/ascf_logo_1689478939.jpg" alt="didi" style="padding-bottom: 30px;" class="lazyload">
+<img data-src="https://notebook.ricear.com/media/202307/2023-07-16_115928_5586930.005774986975290219.png" alt="didi" style="padding-bottom: 30px;" class="lazyload">
 
 """
 
